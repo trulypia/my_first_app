@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title__action_display_message">ActionDisplayMessage</string>
+
+    <string name="action_favorite">ActionFavorite</string>
+    <string name="action_settings">ActionSettings</string>
+
+    <string name="item1">Item1</string>
+    <string name="group_item1">GroupItem1</string>
+    <string name="group_item2">GroupItem2</string>
+    <string name="submenu_title">SubmenuTitle</string>
+    <string name="submenu_item1">SubmenuItem1</string>
+</resources>

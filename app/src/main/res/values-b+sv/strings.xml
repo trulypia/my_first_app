@@ -1,0 +1,8 @@
+<resources>
+<string name="app_name">Min första App</string>
+<string name="edit_message">Skriv ett meddelande</string>
+<string name="button_send">Skicka</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+<string name="hello_blank_fragment">Hej tomt fragment</string>
+</resources>
