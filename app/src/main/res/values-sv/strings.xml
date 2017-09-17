@@ -3,4 +3,6 @@
     <string name="action_favorite">HanteraFavorit</string>
     <string name="action_settings">HanteraInställningar</string>
     <string name="title__action_display_message">HanteraVisaMeddelande</string>
+    <string name="action_search">Sök</string>
+    <string name="action_share">Dela</string>
 </resources>

@@ -16,4 +16,9 @@
     <string name="group_item2">GroupItem2</string>
     <string name="submenu_title">SubmenuTitle</string>
     <string name="submenu_item1">SubmenuItem1</string>
+
+    <string name="action_search">Search</string>
+    <string name="share">Share</string>
+    <string name="search_result">Search result</string>
+    <string name="action_share">Share</string>
 </resources>
